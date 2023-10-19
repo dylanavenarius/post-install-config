@@ -48,4 +48,3 @@ You will be given a default SLA plan. If it does not align with your severity or
 These same steps apply for configuring Help Topics. Adjust settings and permissions to your specifications.
 </p>
 <br />
-
