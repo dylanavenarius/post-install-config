@@ -17,11 +17,13 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Departments
+- Configure Teams & permissions
+- Configure Agents "Workers"
+- Configure Users "Customers"
+- Configure SLA
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
