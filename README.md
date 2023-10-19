@@ -31,14 +31,14 @@ This tutorial outlines the post-installation configuration of the open-source he
 <a href="https://ibb.co/LxJ4M1R"><img src="https://i.ibb.co/n7nhTjm/Screen-Shot-2023-10-19-at-4-37-42-PM.png" alt="Screen-Shot-2023-10-19-at-4-37-42-PM" border="0" /></a>
 </p>
 <p>
-To configure Roles, make sure you are in the Admin Panel and select Agents > Roles > Add New Role.
+To configure Roles, make sure you are in the Admin Panel and select Agents > Roles > Add New Role
 
 These same steps apply for configuring Departments, Teams, Agents, and Users. Adjust settings and permissions to your specifications.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://ibb.co/vq5fX3q"><img src="https://i.ibb.co/jfKqJyf/Screen-Shot-2023-10-19-at-4-47-59-PM.png" alt="Screen-Shot-2023-10-19-at-4-47-59-PM" border="0" /></a>
 </p>
 <p>
 To configure SLAs, make sure you are in the Admin Panel and select Manage > SLA > Add New SLA Plan
