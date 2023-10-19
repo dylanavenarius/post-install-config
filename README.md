@@ -44,6 +44,8 @@ These same steps apply for configuring Departments, Teams, Agents, and Users. Ad
 To configure SLAs, make sure you are in the Admin Panel and select Manage > SLA > Add New SLA Plan
 
 You will be given a default SLA plan. If it does not align with your severity or timeline, feel free to delete it.
+
+These same steps apply for configuring Help Topics. Adjust settings and permissions to your specifications.
 </p>
 <br />
 
