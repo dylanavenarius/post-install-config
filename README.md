@@ -48,3 +48,9 @@ You will be given a default SLA plan. If this does not align with your severity 
 These same steps apply for configuring Help Topics. Adjust settings and permissions to your specifications.
 </p>
 <br />
+
+<h2>osTicket Configurations are Complete</h2>
+
+<p>
+Now that the configurations have been set in place, you can now utilize osTicket as a proper ticketing system. You can create tickets and be able to traige them as you would if it were in a real environment.
+</p>
